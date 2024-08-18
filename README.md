@@ -19,3 +19,7 @@ This project involves scraping mobile and tablet prices from Flipkart, as well a
 ## Result
 
 The project successfully scrapes and visualizes the required data using the technologies mentioned above, providing insights through histograms.
+
+![ss1](https://github.com/user-attachments/assets/0faa273d-ff49-4db4-87b3-72afa83b989a)
+
+![ss2](https://github.com/user-attachments/assets/0e7d8ea6-2999-4b76-a11e-5eaea92ad31f)
